@@ -1,0 +1,24 @@
+[
+    {
+        "__TYPE__": "SharedSliceContent",
+        "variation": "default",
+        "primary": {
+            "name": {
+                "__TYPE__": "FieldContent",
+                "value": "exciting",
+                "type": "Text"
+            },
+            "surname": {
+                "__TYPE__": "FieldContent",
+                "value": "shoot",
+                "type": "Text"
+            },
+            "profession": {
+                "__TYPE__": "FieldContent",
+                "value": "flies",
+                "type": "Text"
+            }
+        },
+        "items": []
+    }
+]
