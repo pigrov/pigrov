@@ -36,7 +36,7 @@ function Geometries() {
     const geometries = [
         {
             position: [0, 0, 0],
-            r: 0.3,
+            r: 0.4,
             geometry: new THREE.IcosahedronGeometry(3),
         },
     ];
